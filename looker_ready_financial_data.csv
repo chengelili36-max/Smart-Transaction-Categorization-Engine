@@ -1,0 +1,501 @@
+log_id,transaction_date,raw_query_text,amount,final_tag,final_icon
+LOG_1499,2025-12-04,transfer to saving ref #4950,44.69,Banking,🏦
+LOG_1450,2025-12-04,disney+ subscription fee,481.53,Local POS & Retail,🏪
+LOG_1139,2025-12-04,paypal *ebay purchase ref #2595,383.96,E-Commerce & ACH,💳
+LOG_1256,2025-12-04,Netflix monthly charge,131.06,Subscriptions,📺
+LOG_1084,2025-12-04,hulu no ads,105.15,Subscriptions,📺
+LOG_1410,2025-12-04,uber eats delivery ref #6404,198.21,Dining,🍔
+LOG_1047,2025-12-04,chase credit card auto-pay ref #5021,237.39,Banking,🏦
+LOG_1360,2025-12-04,starbucks coffee,97.61,Dining,🍔
+LOG_1395,2025-12-04,hulu no ads,487.49,Subscriptions,📺
+LOG_1194,2025-12-04,conedison power ref #3202,141.48,Utilities,⚡️
+LOG_1384,2025-12-05,ach web payment random stuff,477.55,E-Commerce & ACH,💳
+LOG_1006,2025-12-05,whole foods market ref #7839,178.22,Dining,🍔
+LOG_1343,2025-12-05,starbucks coffee,150.57,Dining,🍔
+LOG_1341,2025-12-05,conedison power ref #6013,87.29,Utilities,⚡️
+LOG_1489,2025-12-05,trader joes grocery ref #5917,80.78,Dining,🍔
+LOG_1326,2025-12-05,comcast internet bill,482.65,Utilities,⚡️
+LOG_1320,2025-12-05,trader joes grocery ref #1855,420.47,Dining,🍔
+LOG_1098,2025-12-05,wire transfer fee,393.23,Banking,🏦
+LOG_1273,2025-12-05,uber eats delivery,309.6,Dining,🍔
+LOG_1429,2025-12-05,starbucks coffee,405.55,Dining,🍔
+LOG_1026,2025-12-05,whole foods market,94.58,Dining,🍔
+LOG_1134,2025-12-05,ach web payment random stuff ref #1345,494.0,E-Commerce & ACH,💳
+LOG_1052,2025-12-05,whole foods market,22.36,Dining,🍔
+LOG_1210,2025-12-05,Spotify premium plan,462.18,Subscriptions,📺
+LOG_1243,2025-12-05,POS DEBIT 12/24/2025 terminal 482 ref #5198,278.0,E-Commerce & ACH,💳
+LOG_1016,2025-12-06,starbucks coffee,45.16,Dining,🍔
+LOG_1337,2025-12-06,uber eats delivery,267.68,Dining,🍔
+LOG_1339,2025-12-06,disney+ subscription fee ref #3661,475.33,Local POS & Retail,🏪
+LOG_1475,2025-12-06,whole foods market ref #2558,435.09,Dining,🍔
+LOG_1207,2025-12-06,disney+ subscription fee,377.84,Local POS & Retail,🏪
+LOG_1321,2025-12-06,wire transfer fee,396.43,Banking,🏦
+LOG_1317,2025-12-06,PG&E monthly bill ref #5634,113.61,Utilities,⚡️
+LOG_1179,2025-12-06,disney+ subscription fee,207.11,Local POS & Retail,🏪
+LOG_1191,2025-12-06,at&t wireless phone ref #5885,327.34,Utilities,⚡️
+LOG_1390,2025-12-06,disney+ subscription fee,38.5,Local POS & Retail,🏪
+LOG_1153,2025-12-06,at&t wireless phone,395.41,Utilities,⚡️
+LOG_1463,2025-12-06,starbucks coffee,28.13,Dining,🍔
+LOG_1345,2025-12-06,at&t wireless phone,197.9,Utilities,⚡️
+LOG_1113,2025-12-06,whole foods market,137.31,Dining,🍔
+LOG_1071,2025-12-07,apple tv+ sub,185.85,Subscriptions,📺
+LOG_1054,2025-12-07,wire transfer fee,451.86,Banking,🏦
+LOG_1388,2025-12-07,at&t wireless phone ref #6370,416.92,Utilities,⚡️
+LOG_1173,2025-12-07,amzn prime video,402.3,Subscriptions,📺
+LOG_1103,2025-12-07,trader joes grocery ref #4425,157.58,Dining,🍔
+LOG_1285,2025-12-07,POS DEBIT 12/24/2025 terminal 482,440.1,E-Commerce & ACH,💳
+LOG_1445,2025-12-07,whole foods market,397.18,Dining,🍔
+LOG_1239,2025-12-07,whole foods market,123.57,Dining,🍔
+LOG_1471,2025-12-07,trader joes grocery,411.53,Dining,🍔
+LOG_1137,2025-12-07,trader joes grocery ref #2506,338.13,Dining,🍔
+LOG_1481,2025-12-07,zelle payment to john,234.57,Banking,🏦
+LOG_1275,2025-12-07,apple tv+ sub ref #3034,29.14,Subscriptions,📺
+LOG_1305,2025-12-07,conedison power,40.84,Utilities,⚡️
+LOG_1348,2025-12-08,whole foods market,76.77,Dining,🍔
+LOG_1183,2025-12-08,ach web payment random stuff ref #6352,312.15,E-Commerce & ACH,💳
+LOG_1458,2025-12-08,whole foods market,194.19,Dining,🍔
+LOG_1236,2025-12-08,hulu no ads,499.68,Subscriptions,📺
+LOG_1154,2025-12-08,starbucks coffee,100.88,Dining,🍔
+LOG_1372,2025-12-08,hulu no ads ref #4669,43.9,Subscriptions,📺
+LOG_1436,2025-12-08,sq *local coffee shop ref #6851,260.58,Missed Subscriptions,📺
+LOG_1145,2025-12-08,PG&E monthly bill ref #7292,255.34,Utilities,⚡️
+LOG_1498,2025-12-08,sq *local coffee shop,146.76,Missed Subscriptions,📺
+LOG_1007,2025-12-08,conedison power,334.97,Utilities,⚡️
+LOG_1453,2025-12-08,Spotify premium plan,159.53,Subscriptions,📺
+LOG_1421,2025-12-08,whole foods market ref #3654,178.31,Dining,🍔
+LOG_1028,2025-12-08,ach web payment random stuff ref #5835,158.85,E-Commerce & ACH,💳
+LOG_1487,2025-12-08,Spotify premium plan ref #3248,398.98,Subscriptions,📺
+LOG_1039,2025-12-09,conedison power ref #5582,219.86,Utilities,⚡️
+LOG_1128,2025-12-09,at&t wireless phone,346.56,Utilities,⚡️
+LOG_1415,2025-12-09,amzn prime video ref #5566,380.49,Subscriptions,📺
+LOG_1459,2025-12-09,Netflix monthly charge,318.0,Subscriptions,📺
+LOG_1254,2025-12-09,starbucks coffee,205.89,Dining,🍔
+LOG_1170,2025-12-09,paypal *ebay purchase,305.85,E-Commerce & ACH,💳
+LOG_1460,2025-12-09,transfer to saving ref #2694,243.41,Banking,🏦
+LOG_1252,2025-12-09,mcdonalds doordash,418.77,Dining,🍔
+LOG_1143,2025-12-09,hulu no ads ref #5267,376.37,Subscriptions,📺
+LOG_1287,2025-12-09,starbucks coffee,216.67,Dining,🍔
+LOG_1466,2025-12-09,PG&E monthly bill,383.75,Utilities,⚡️
+LOG_1296,2025-12-09,apple tv+ sub,6.06,Subscriptions,📺
+LOG_1366,2025-12-09,Spotify premium plan,200.99,Subscriptions,📺
+LOG_1485,2025-12-09,water service san jose,351.71,Utilities,⚡️
+LOG_1456,2025-12-09,POS DEBIT 12/24/2025 terminal 482 ref #7882,237.21,E-Commerce & ACH,💳
+LOG_1033,2025-12-10,zelle payment to john ref #9232,457.55,Banking,🏦
+LOG_1217,2025-12-10,wire transfer fee,264.48,Banking,🏦
+LOG_1176,2025-12-10,mcdonalds doordash,354.68,Dining,🍔
+LOG_1433,2025-12-10,mcdonalds doordash,349.86,Dining,🍔
+LOG_1397,2025-12-10,disney+ subscription fee,464.11,Local POS & Retail,🏪
+LOG_1387,2025-12-10,comcast internet bill ref #5519,286.32,Utilities,⚡️
+LOG_1044,2025-12-10,Spotify premium plan ref #3671,406.62,Subscriptions,📺
+LOG_1247,2025-12-10,PG&E monthly bill ref #9701,326.82,Utilities,⚡️
+LOG_1122,2025-12-10,apple tv+ sub ref #5802,422.73,Subscriptions,📺
+LOG_1096,2025-12-10,transfer to saving,276.33,Banking,🏦
+LOG_1462,2025-12-10,wire transfer fee ref #4240,26.62,Banking,🏦
+LOG_1001,2025-12-10,PG&E monthly bill ref #5292,211.4,Utilities,⚡️
+LOG_1330,2025-12-11,atm withdrawal,227.91,Banking,🏦
+LOG_1312,2025-12-11,zelle payment to john ref #2247,91.33,Banking,🏦
+LOG_1205,2025-12-11,hulu no ads,35.63,Subscriptions,📺
+LOG_1070,2025-12-11,whole foods market ref #7285,458.1,Dining,🍔
+LOG_1218,2025-12-11,paypal *ebay purchase,396.67,E-Commerce & ACH,💳
+LOG_1078,2025-12-11,comcast internet bill ref #3585,200.03,Utilities,⚡️
+LOG_1099,2025-12-11,comcast internet bill ref #5033,165.06,Utilities,⚡️
+LOG_1215,2025-12-11,hulu no ads,121.44,Subscriptions,📺
+LOG_1144,2025-12-11,hulu no ads ref #5418,31.48,Subscriptions,📺
+LOG_1443,2025-12-12,ach web payment random stuff ref #3491,393.18,E-Commerce & ACH,💳
+LOG_1496,2025-12-12,chase credit card auto-pay ref #6658,330.15,Banking,🏦
+LOG_1065,2025-12-12,Netflix monthly charge ref #9646,259.22,Subscriptions,📺
+LOG_1076,2025-12-12,ach web payment random stuff,127.07,E-Commerce & ACH,💳
+LOG_1222,2025-12-12,ach web payment random stuff,89.45,E-Commerce & ACH,💳
+LOG_1319,2025-12-12,mcdonalds doordash ref #1835,112.02,Dining,🍔
+LOG_1258,2025-12-12,atm withdrawal ref #9543,218.72,Banking,🏦
+LOG_1041,2025-12-12,comcast internet bill,309.58,Utilities,⚡️
+LOG_1380,2025-12-12,mcdonalds doordash ref #6931,210.67,Dining,🍔
+LOG_1331,2025-12-12,zelle payment to john,403.56,Banking,🏦
+LOG_1086,2025-12-13,water service san jose,125.28,Utilities,⚡️
+LOG_1324,2025-12-13,zelle payment to john,24.6,Banking,🏦
+LOG_1133,2025-12-13,uber eats delivery,394.79,Dining,🍔
+LOG_1042,2025-12-13,conedison power ref #2100,10.81,Utilities,⚡️
+LOG_1089,2025-12-13,at&t wireless phone,420.94,Utilities,⚡️
+LOG_1355,2025-12-13,conedison power,447.28,Utilities,⚡️
+LOG_1034,2025-12-13,comcast internet bill ref #7536,37.79,Utilities,⚡️
+LOG_1160,2025-12-13,Netflix monthly charge,467.6,Subscriptions,📺
+LOG_1449,2025-12-13,mcdonalds doordash,15.93,Dining,🍔
+LOG_1288,2025-12-13,chase credit card auto-pay ref #9461,185.04,Banking,🏦
+LOG_1446,2025-12-13,whole foods market ref #3577,198.38,Dining,🍔
+LOG_1295,2025-12-13,comcast internet bill,260.67,Utilities,⚡️
+LOG_1105,2025-12-13,wire transfer fee,463.24,Banking,🏦
+LOG_1138,2025-12-13,hulu no ads ref #5682,445.96,Subscriptions,📺
+LOG_1329,2025-12-13,water service san jose ref #8184,219.53,Utilities,⚡️
+LOG_1452,2025-12-14,at&t wireless phone ref #2514,82.7,Utilities,⚡️
+LOG_1405,2025-12-14,transfer to saving,292.86,Banking,🏦
+LOG_1307,2025-12-14,POS DEBIT 12/24/2025 terminal 482,264.36,E-Commerce & ACH,💳
+LOG_1420,2025-12-14,ach web payment random stuff ref #7528,443.88,E-Commerce & ACH,💳
+LOG_1385,2025-12-14,transfer to saving ref #5103,318.76,Banking,🏦
+LOG_1362,2025-12-14,atm withdrawal,281.12,Banking,🏦
+LOG_1079,2025-12-14,wire transfer fee ref #6694,459.45,Banking,🏦
+LOG_1479,2025-12-14,apple tv+ sub ref #8462,402.52,Subscriptions,📺
+LOG_1184,2025-12-14,disney+ subscription fee ref #5414,492.64,Local POS & Retail,🏪
+LOG_1090,2025-12-14,at&t wireless phone ref #9867,331.13,Utilities,⚡️
+LOG_1432,2025-12-14,PG&E monthly bill ref #2186,381.72,Utilities,⚡️
+LOG_1055,2025-12-15,PG&E monthly bill,203.4,Utilities,⚡️
+LOG_1141,2025-12-15,apple tv+ sub ref #2077,473.74,Subscriptions,📺
+LOG_1051,2025-12-15,hulu no ads,208.17,Subscriptions,📺
+LOG_1365,2025-12-15,uber eats delivery,230.43,Dining,🍔
+LOG_1364,2025-12-15,amzn prime video,177.99,Subscriptions,📺
+LOG_1272,2025-12-15,PG&E monthly bill ref #6097,110.02,Utilities,⚡️
+LOG_1359,2025-12-15,apple tv+ sub ref #1215,67.81,Subscriptions,📺
+LOG_1283,2025-12-15,conedison power ref #5462,287.45,Utilities,⚡️
+LOG_1342,2025-12-15,Spotify premium plan,217.36,Subscriptions,📺
+LOG_1009,2025-12-15,POS DEBIT 12/24/2025 terminal 482,30.17,E-Commerce & ACH,💳
+LOG_1023,2025-12-15,conedison power,392.22,Utilities,⚡️
+LOG_1461,2025-12-16,amzn prime video ref #5426,163.9,Subscriptions,📺
+LOG_1182,2025-12-16,wire transfer fee,95.12,Banking,🏦
+LOG_1011,2025-12-16,sq *local coffee shop,429.85,Missed Subscriptions,📺
+LOG_1015,2025-12-16,mcdonalds doordash,370.55,Dining,🍔
+LOG_1242,2025-12-16,conedison power ref #6531,439.51,Utilities,⚡️
+LOG_1204,2025-12-16,Spotify premium plan,96.95,Subscriptions,📺
+LOG_1257,2025-12-16,atm withdrawal ref #8848,324.73,Banking,🏦
+LOG_1477,2025-12-16,ach web payment random stuff,225.11,E-Commerce & ACH,💳
+LOG_1069,2025-12-16,amzn prime video,142.58,Subscriptions,📺
+LOG_1354,2025-12-16,mcdonalds doordash ref #5004,164.68,Dining,🍔
+LOG_1118,2025-12-16,paypal *ebay purchase,45.82,E-Commerce & ACH,💳
+LOG_1253,2025-12-16,Netflix monthly charge,266.61,Subscriptions,📺
+LOG_1294,2025-12-17,mcdonalds doordash ref #7046,331.55,Dining,🍔
+LOG_1014,2025-12-17,zelle payment to john ref #2339,358.96,Banking,🏦
+LOG_1304,2025-12-17,wire transfer fee ref #1289,369.26,Banking,🏦
+LOG_1308,2025-12-17,mcdonalds doordash ref #6626,31.1,Dining,🍔
+LOG_1334,2025-12-17,zelle payment to john,9.93,Banking,🏦
+LOG_1286,2025-12-17,trader joes grocery ref #3009,28.26,Dining,🍔
+LOG_1004,2025-12-17,starbucks coffee,453.43,Dining,🍔
+LOG_1407,2025-12-17,Netflix monthly charge ref #3740,393.58,Subscriptions,📺
+LOG_1451,2025-12-17,at&t wireless phone,295.61,Utilities,⚡️
+LOG_1454,2025-12-17,water service san jose,106.2,Utilities,⚡️
+LOG_1092,2025-12-17,whole foods market,52.03,Dining,🍔
+LOG_1046,2025-12-17,conedison power ref #5923,335.95,Utilities,⚡️
+LOG_1371,2025-12-17,ach web payment random stuff ref #5057,276.91,E-Commerce & ACH,💳
+LOG_1399,2025-12-17,trader joes grocery ref #3714,341.03,Dining,🍔
+LOG_1171,2025-12-17,wire transfer fee,125.86,Banking,🏦
+LOG_1465,2025-12-17,Netflix monthly charge,89.64,Subscriptions,📺
+LOG_1167,2025-12-17,zelle payment to john ref #5684,318.19,Banking,🏦
+LOG_1435,2025-12-17,chase credit card auto-pay ref #1721,346.97,Banking,🏦
+LOG_1146,2025-12-17,water service san jose ref #1496,88.54,Utilities,⚡️
+LOG_1025,2025-12-17,at&t wireless phone ref #2457,68.78,Utilities,⚡️
+LOG_1495,2025-12-18,transfer to saving,449.66,Banking,🏦
+LOG_1008,2025-12-18,transfer to saving,143.99,Banking,🏦
+LOG_1493,2025-12-18,trader joes grocery,377.02,Dining,🍔
+LOG_1081,2025-12-18,amzn prime video,161.02,Subscriptions,📺
+LOG_1043,2025-12-18,whole foods market ref #3158,43.19,Dining,🍔
+LOG_1211,2025-12-18,mcdonalds doordash ref #2176,266.14,Dining,🍔
+LOG_1350,2025-12-18,sq *local coffee shop ref #2710,183.97,Missed Subscriptions,📺
+LOG_1255,2025-12-19,hulu no ads,482.57,Subscriptions,📺
+LOG_1274,2025-12-19,comcast internet bill ref #4226,151.34,Utilities,⚡️
+LOG_1279,2025-12-19,amzn prime video ref #5832,268.82,Subscriptions,📺
+LOG_1280,2025-12-19,mcdonalds doordash ref #1871,462.37,Dining,🍔
+LOG_1426,2025-12-19,trader joes grocery ref #7092,180.12,Dining,🍔
+LOG_1379,2025-12-19,paypal *ebay purchase,445.0,E-Commerce & ACH,💳
+LOG_1316,2025-12-19,amzn prime video,53.11,Subscriptions,📺
+LOG_1391,2025-12-19,apple tv+ sub,362.07,Subscriptions,📺
+LOG_1035,2025-12-19,mcdonalds doordash ref #7853,387.97,Dining,🍔
+LOG_1056,2025-12-19,chase credit card auto-pay ref #7816,291.24,Banking,🏦
+LOG_1140,2025-12-19,paypal *ebay purchase,276.71,E-Commerce & ACH,💳
+LOG_1192,2025-12-19,Spotify premium plan,321.45,Subscriptions,📺
+LOG_1095,2025-12-19,disney+ subscription fee ref #3522,256.65,Local POS & Retail,🏪
+LOG_1163,2025-12-19,whole foods market ref #3767,241.63,Dining,🍔
+LOG_1169,2025-12-20,atm withdrawal ref #6298,323.06,Banking,🏦
+LOG_1377,2025-12-20,conedison power ref #8652,413.96,Utilities,⚡️
+LOG_1228,2025-12-20,mcdonalds doordash,433.87,Dining,🍔
+LOG_1213,2025-12-20,PG&E monthly bill,365.3,Utilities,⚡️
+LOG_1344,2025-12-20,Spotify premium plan ref #5179,56.39,Subscriptions,📺
+LOG_1032,2025-12-20,disney+ subscription fee,305.18,Local POS & Retail,🏪
+LOG_1115,2025-12-20,Spotify premium plan ref #2093,418.61,Subscriptions,📺
+LOG_1126,2025-12-20,paypal *ebay purchase ref #5055,142.97,E-Commerce & ACH,💳
+LOG_1178,2025-12-20,water service san jose ref #7855,306.86,Utilities,⚡️
+LOG_1206,2025-12-20,wire transfer fee ref #7445,364.62,Banking,🏦
+LOG_1180,2025-12-20,Spotify premium plan,68.55,Subscriptions,📺
+LOG_1346,2025-12-20,Netflix monthly charge,314.3,Subscriptions,📺
+LOG_1021,2025-12-20,POS DEBIT 12/24/2025 terminal 482 ref #7507,58.85,E-Commerce & ACH,💳
+LOG_1201,2025-12-20,uber eats delivery,431.43,Dining,🍔
+LOG_1109,2025-12-20,atm withdrawal ref #8680,399.63,Banking,🏦
+LOG_1198,2025-12-20,trader joes grocery ref #1961,368.66,Dining,🍔
+LOG_1336,2025-12-20,amzn prime video ref #3750,91.52,Subscriptions,📺
+LOG_1235,2025-12-21,uber eats delivery ref #3048,194.59,Dining,🍔
+LOG_1340,2025-12-21,chase credit card auto-pay ref #2082,17.16,Banking,🏦
+LOG_1111,2025-12-21,conedison power,389.64,Utilities,⚡️
+LOG_1284,2025-12-21,Netflix monthly charge ref #8242,79.42,Subscriptions,📺
+LOG_1224,2025-12-21,PG&E monthly bill ref #4767,427.17,Utilities,⚡️
+LOG_1300,2025-12-21,uber eats delivery,93.94,Dining,🍔
+LOG_1080,2025-12-21,conedison power ref #7767,126.68,Utilities,⚡️
+LOG_1019,2025-12-21,paypal *ebay purchase ref #8469,257.6,E-Commerce & ACH,💳
+LOG_1473,2025-12-21,amzn prime video,297.4,Subscriptions,📺
+LOG_1101,2025-12-21,ach web payment random stuff ref #1469,401.42,E-Commerce & ACH,💳
+LOG_1472,2025-12-21,water service san jose ref #6489,371.37,Utilities,⚡️
+LOG_1177,2025-12-21,comcast internet bill ref #5719,121.41,Utilities,⚡️
+LOG_1050,2025-12-21,PG&E monthly bill ref #5464,466.6,Utilities,⚡️
+LOG_1002,2025-12-21,wire transfer fee,106.66,Banking,🏦
+LOG_1311,2025-12-21,apple tv+ sub,329.41,Subscriptions,📺
+LOG_1309,2025-12-22,apple tv+ sub,450.58,Subscriptions,📺
+LOG_1478,2025-12-22,transfer to saving,385.78,Banking,🏦
+LOG_1073,2025-12-22,POS DEBIT 12/24/2025 terminal 482,273.06,E-Commerce & ACH,💳
+LOG_1369,2025-12-22,amzn prime video,12.04,Subscriptions,📺
+LOG_1428,2025-12-22,chase credit card auto-pay ref #1100,410.88,Banking,🏦
+LOG_1328,2025-12-22,POS DEBIT 12/24/2025 terminal 482,284.08,E-Commerce & ACH,💳
+LOG_1020,2025-12-22,paypal *ebay purchase ref #7013,287.36,E-Commerce & ACH,💳
+LOG_1114,2025-12-22,water service san jose,453.55,Utilities,⚡️
+LOG_1382,2025-12-22,comcast internet bill,393.31,Utilities,⚡️
+LOG_1168,2025-12-22,starbucks coffee,283.38,Dining,🍔
+LOG_1301,2025-12-22,comcast internet bill ref #2316,242.3,Utilities,⚡️
+LOG_1297,2025-12-22,hulu no ads ref #6171,408.71,Subscriptions,📺
+LOG_1292,2025-12-22,conedison power,353.48,Utilities,⚡️
+LOG_1229,2025-12-22,transfer to saving,214.48,Banking,🏦
+LOG_1124,2025-12-22,conedison power ref #4280,469.05,Utilities,⚡️
+LOG_1063,2025-12-22,uber eats delivery,442.26,Dining,🍔
+LOG_1290,2025-12-23,comcast internet bill ref #1928,44.05,Utilities,⚡️
+LOG_1313,2025-12-23,zelle payment to john ref #1049,324.81,Banking,🏦
+LOG_1200,2025-12-23,apple tv+ sub,316.45,Subscriptions,📺
+LOG_1263,2025-12-23,ach web payment random stuff ref #9853,56.98,E-Commerce & ACH,💳
+LOG_1087,2025-12-23,trader joes grocery ref #4625,228.52,Dining,🍔
+LOG_1185,2025-12-23,POS DEBIT 12/24/2025 terminal 482,458.22,E-Commerce & ACH,💳
+LOG_1414,2025-12-23,atm withdrawal ref #5183,284.86,Banking,🏦
+LOG_1209,2025-12-23,ach web payment random stuff ref #8348,357.01,E-Commerce & ACH,💳
+LOG_1108,2025-12-23,chase credit card auto-pay ref #8005,402.68,Banking,🏦
+LOG_1106,2025-12-23,atm withdrawal ref #5722,237.75,Banking,🏦
+LOG_1267,2025-12-23,PG&E monthly bill ref #4999,334.32,Utilities,⚡️
+LOG_1112,2025-12-23,paypal *ebay purchase,440.64,E-Commerce & ACH,💳
+LOG_1165,2025-12-23,conedison power,290.52,Utilities,⚡️
+LOG_1223,2025-12-23,starbucks coffee,26.11,Dining,🍔
+LOG_1058,2025-12-23,trader joes grocery ref #4104,388.15,Dining,🍔
+LOG_1403,2025-12-23,starbucks coffee ref #3071,130.22,Dining,🍔
+LOG_1022,2025-12-23,uber eats delivery,74.05,Dining,🍔
+LOG_1240,2025-12-23,starbucks coffee,79.7,Dining,🍔
+LOG_1094,2025-12-24,uber eats delivery,53.4,Dining,🍔
+LOG_1474,2025-12-24,wire transfer fee,349.09,Banking,🏦
+LOG_1261,2025-12-24,whole foods market,139.61,Dining,🍔
+LOG_1318,2025-12-24,hulu no ads ref #5261,124.22,Subscriptions,📺
+LOG_1018,2025-12-24,starbucks coffee,6.76,Dining,🍔
+LOG_1175,2025-12-24,PG&E monthly bill ref #5131,286.3,Utilities,⚡️
+LOG_1174,2025-12-24,hulu no ads,105.08,Subscriptions,📺
+LOG_1017,2025-12-24,starbucks coffee ref #2560,221.36,Dining,🍔
+LOG_1048,2025-12-24,hulu no ads,211.18,Subscriptions,📺
+LOG_1241,2025-12-24,uber eats delivery ref #7328,50.76,Dining,🍔
+LOG_1188,2025-12-25,POS DEBIT 12/24/2025 terminal 482,70.05,E-Commerce & ACH,💳
+LOG_1214,2025-12-25,transfer to saving,397.04,Banking,🏦
+LOG_1104,2025-12-25,uber eats delivery ref #5481,44.48,Dining,🍔
+LOG_1216,2025-12-25,conedison power ref #5040,220.7,Utilities,⚡️
+LOG_1172,2025-12-25,mcdonalds doordash ref #1291,31.02,Dining,🍔
+LOG_1497,2025-12-25,wire transfer fee ref #5702,451.71,Banking,🏦
+LOG_1158,2025-12-25,hulu no ads,488.79,Subscriptions,📺
+LOG_1040,2025-12-25,starbucks coffee,329.41,Dining,🍔
+LOG_1439,2025-12-25,at&t wireless phone,433.35,Utilities,⚡️
+LOG_1013,2025-12-25,atm withdrawal ref #1100,127.41,Banking,🏦
+LOG_1097,2025-12-25,water service san jose ref #6050,277.42,Utilities,⚡️
+LOG_1250,2025-12-25,wire transfer fee,181.23,Banking,🏦
+LOG_1251,2025-12-25,whole foods market ref #1321,234.55,Dining,🍔
+LOG_1480,2025-12-25,ach web payment random stuff,312.08,E-Commerce & ACH,💳
+LOG_1314,2025-12-25,starbucks coffee,433.64,Dining,🍔
+LOG_1038,2025-12-26,starbucks coffee,370.15,Dining,🍔
+LOG_1486,2025-12-26,atm withdrawal,44.56,Banking,🏦
+LOG_1303,2025-12-26,POS DEBIT 12/24/2025 terminal 482 ref #3166,151.1,E-Commerce & ACH,💳
+LOG_1488,2025-12-26,conedison power ref #1656,41.1,Utilities,⚡️
+LOG_1490,2025-12-26,sq *local coffee shop,441.19,Missed Subscriptions,📺
+LOG_1075,2025-12-26,transfer to saving ref #5524,234.15,Banking,🏦
+LOG_1077,2025-12-26,amzn prime video,102.89,Subscriptions,📺
+LOG_1408,2025-12-26,mcdonalds doordash ref #6523,12.96,Dining,🍔
+LOG_1293,2025-12-26,trader joes grocery,41.32,Dining,🍔
+LOG_1404,2025-12-26,comcast internet bill ref #8615,109.58,Utilities,⚡️
+LOG_1107,2025-12-26,sq *local coffee shop,278.77,Missed Subscriptions,📺
+LOG_1187,2025-12-26,starbucks coffee,110.48,Dining,🍔
+LOG_1203,2025-12-26,conedison power ref #5464,456.23,Utilities,⚡️
+LOG_1003,2025-12-26,hulu no ads ref #7025,168.61,Subscriptions,📺
+LOG_1117,2025-12-26,apple tv+ sub,189.3,Subscriptions,📺
+LOG_1393,2025-12-26,apple tv+ sub ref #7709,171.67,Subscriptions,📺
+LOG_1230,2025-12-26,chase credit card auto-pay ref #6301,112.64,Banking,🏦
+LOG_1233,2025-12-26,POS DEBIT 12/24/2025 terminal 482,257.8,E-Commerce & ACH,💳
+LOG_1238,2025-12-26,uber eats delivery ref #3987,263.83,Dining,🍔
+LOG_1349,2025-12-27,amzn prime video,280.59,Subscriptions,📺
+LOG_1151,2025-12-27,POS DEBIT 12/24/2025 terminal 482,65.33,E-Commerce & ACH,💳
+LOG_1327,2025-12-27,starbucks coffee ref #9907,491.7,Dining,🍔
+LOG_1132,2025-12-27,wire transfer fee,496.7,Banking,🏦
+LOG_1129,2025-12-27,whole foods market,113.33,Dining,🍔
+LOG_1438,2025-12-27,whole foods market,307.51,Dining,🍔
+LOG_1430,2025-12-27,transfer to saving,263.28,Banking,🏦
+LOG_1422,2025-12-27,uber eats delivery,356.74,Dining,🍔
+LOG_1277,2025-12-27,transfer to saving,473.62,Banking,🏦
+LOG_1125,2025-12-28,POS DEBIT 12/24/2025 terminal 482,187.75,E-Commerce & ACH,💳
+LOG_1310,2025-12-28,zelle payment to john ref #8918,127.39,Banking,🏦
+LOG_1049,2025-12-28,uber eats delivery ref #7165,64.96,Dining,🍔
+LOG_1264,2025-12-28,uber eats delivery ref #5048,187.64,Dining,🍔
+LOG_1434,2025-12-28,Spotify premium plan,341.62,Subscriptions,📺
+LOG_1234,2025-12-28,at&t wireless phone ref #5845,436.09,Utilities,⚡️
+LOG_1419,2025-12-28,transfer to saving,168.42,Banking,🏦
+LOG_1053,2025-12-28,comcast internet bill,483.05,Utilities,⚡️
+LOG_1281,2025-12-28,hulu no ads,112.41,Subscriptions,📺
+LOG_1325,2025-12-28,comcast internet bill ref #2601,396.96,Utilities,⚡️
+LOG_1444,2025-12-29,chase credit card auto-pay ref #5233,331.91,Banking,🏦
+LOG_1159,2025-12-29,mcdonalds doordash,109.77,Dining,🍔
+LOG_1367,2025-12-29,POS DEBIT 12/24/2025 terminal 482 ref #7517,36.57,E-Commerce & ACH,💳
+LOG_1061,2025-12-29,mcdonalds doordash,399.17,Dining,🍔
+LOG_1220,2025-12-29,water service san jose,217.43,Utilities,⚡️
+LOG_1412,2025-12-29,water service san jose,28.6,Utilities,⚡️
+LOG_1157,2025-12-29,transfer to saving,464.95,Banking,🏦
+LOG_1332,2025-12-29,POS DEBIT 12/24/2025 terminal 482 ref #2367,60.6,E-Commerce & ACH,💳
+LOG_1067,2025-12-29,transfer to saving ref #9447,81.71,Banking,🏦
+LOG_1068,2025-12-29,ach web payment random stuff,473.84,E-Commerce & ACH,💳
+LOG_1147,2025-12-29,Spotify premium plan ref #1009,373.35,Subscriptions,📺
+LOG_1467,2025-12-29,disney+ subscription fee ref #9332,313.06,Local POS & Retail,🏪
+LOG_1468,2025-12-29,ach web payment random stuff ref #8642,134.9,E-Commerce & ACH,💳
+LOG_1037,2025-12-29,at&t wireless phone ref #8341,274.84,Utilities,⚡️
+LOG_1482,2025-12-29,sq *local coffee shop,92.19,Missed Subscriptions,📺
+LOG_1440,2025-12-29,uber eats delivery,466.48,Dining,🍔
+LOG_1012,2025-12-30,sq *local coffee shop ref #8171,484.75,Missed Subscriptions,📺
+LOG_1373,2025-12-30,trader joes grocery ref #9026,44.44,Dining,🍔
+LOG_1029,2025-12-30,amzn prime video,225.62,Subscriptions,📺
+LOG_1392,2025-12-30,hulu no ads,160.59,Subscriptions,📺
+LOG_1036,2025-12-30,Spotify premium plan ref #4237,266.71,Subscriptions,📺
+LOG_1455,2025-12-30,conedison power,208.57,Utilities,⚡️
+LOG_1062,2025-12-30,paypal *ebay purchase ref #4039,126.24,E-Commerce & ACH,💳
+LOG_1156,2025-12-30,sq *local coffee shop ref #3549,423.81,Missed Subscriptions,📺
+LOG_1119,2025-12-30,POS DEBIT 12/24/2025 terminal 482,431.56,E-Commerce & ACH,💳
+LOG_1431,2025-12-30,zelle payment to john ref #1270,324.47,Banking,🏦
+LOG_1074,2025-12-30,trader joes grocery,464.56,Dining,🍔
+LOG_1374,2025-12-31,comcast internet bill,200.44,Utilities,⚡️
+LOG_1447,2025-12-31,transfer to saving ref #8213,156.21,Banking,🏦
+LOG_1231,2025-12-31,uber eats delivery,182.94,Dining,🍔
+LOG_1010,2025-12-31,amzn prime video,390.52,Subscriptions,📺
+LOG_1416,2025-12-31,chase credit card auto-pay,401.06,Banking,🏦
+LOG_1149,2025-12-31,sq *local coffee shop ref #4182,246.95,Missed Subscriptions,📺
+LOG_1130,2025-12-31,PG&E monthly bill,275.56,Utilities,⚡️
+LOG_1265,2025-12-31,sq *local coffee shop,331.47,Missed Subscriptions,📺
+LOG_1123,2025-12-31,hulu no ads ref #6189,220.45,Subscriptions,📺
+LOG_1418,2025-12-31,wire transfer fee,149.83,Banking,🏦
+LOG_1195,2025-12-31,hulu no ads ref #8469,24.25,Subscriptions,📺
+LOG_1116,2025-12-31,wire transfer fee ref #8574,408.0,Banking,🏦
+LOG_1091,2025-12-31,POS DEBIT 12/24/2025 terminal 482,418.81,E-Commerce & ACH,💳
+LOG_1093,2025-12-31,mcdonalds doordash ref #1848,252.51,Dining,🍔
+LOG_1299,2025-12-31,sq *local coffee shop ref #4768,454.66,Missed Subscriptions,📺
+LOG_1298,2025-12-31,disney+ subscription fee,263.48,Local POS & Retail,🏪
+LOG_1427,2025-12-31,paypal *ebay purchase,128.3,E-Commerce & ACH,💳
+LOG_1181,2026-01-01,disney+ subscription fee ref #8823,376.61,Local POS & Retail,🏪
+LOG_1212,2026-01-01,chase credit card auto-pay,280.92,Banking,🏦
+LOG_1227,2026-01-01,Netflix monthly charge ref #5751,121.61,Subscriptions,📺
+LOG_1302,2026-01-01,wire transfer fee ref #6323,320.42,Banking,🏦
+LOG_1394,2026-01-01,at&t wireless phone,93.63,Utilities,⚡️
+LOG_1232,2026-01-01,whole foods market ref #8277,68.06,Dining,🍔
+LOG_1437,2026-01-01,comcast internet bill ref #6009,13.98,Utilities,⚡️
+LOG_1424,2026-01-01,whole foods market ref #3166,333.58,Dining,🍔
+LOG_1027,2026-01-01,water service san jose,258.37,Utilities,⚡️
+LOG_1024,2026-01-01,water service san jose ref #6809,224.05,Utilities,⚡️
+LOG_1266,2026-01-01,Netflix monthly charge ref #3585,103.51,Subscriptions,📺
+LOG_1411,2026-01-01,conedison power,211.44,Utilities,⚡️
+LOG_1289,2026-01-01,starbucks coffee ref #1547,294.87,Dining,🍔
+LOG_1357,2026-01-01,at&t wireless phone ref #9463,226.08,Utilities,⚡️
+LOG_1400,2026-01-02,Netflix monthly charge ref #7240,385.32,Subscriptions,📺
+LOG_1401,2026-01-02,disney+ subscription fee ref #5324,104.04,Local POS & Retail,🏪
+LOG_1470,2026-01-02,amzn prime video,296.04,Subscriptions,📺
+LOG_1249,2026-01-02,hulu no ads,284.4,Subscriptions,📺
+LOG_1386,2026-01-02,mcdonalds doordash ref #2740,324.72,Dining,🍔
+LOG_1202,2026-01-02,apple tv+ sub,162.29,Subscriptions,📺
+LOG_1164,2026-01-02,apple tv+ sub,44.1,Subscriptions,📺
+LOG_1155,2026-01-02,whole foods market,140.45,Dining,🍔
+LOG_1237,2026-01-02,conedison power ref #6839,99.85,Utilities,⚡️
+LOG_1245,2026-01-02,at&t wireless phone,93.14,Utilities,⚡️
+LOG_1135,2026-01-02,starbucks coffee,117.83,Dining,🍔
+LOG_1270,2026-01-02,apple tv+ sub ref #8779,26.56,Subscriptions,📺
+LOG_1100,2026-01-02,hulu no ads ref #7611,68.08,Subscriptions,📺
+LOG_1193,2026-01-02,apple tv+ sub ref #9813,168.66,Subscriptions,📺
+LOG_1347,2026-01-02,mcdonalds doordash ref #3797,360.87,Dining,🍔
+LOG_1072,2026-01-02,sq *local coffee shop ref #5950,416.06,Missed Subscriptions,📺
+LOG_1358,2026-01-02,at&t wireless phone,347.81,Utilities,⚡️
+LOG_1186,2026-01-02,atm withdrawal,458.2,Banking,🏦
+LOG_1375,2026-01-02,comcast internet bill ref #6009,259.38,Utilities,⚡️
+LOG_1059,2026-01-02,trader joes grocery,478.59,Dining,🍔
+LOG_1150,2026-01-03,hulu no ads ref #3977,180.17,Subscriptions,📺
+LOG_1491,2026-01-03,amzn prime video ref #9034,365.13,Subscriptions,📺
+LOG_1005,2026-01-03,at&t wireless phone,432.07,Utilities,⚡️
+LOG_1396,2026-01-03,paypal *ebay purchase ref #4334,159.33,E-Commerce & ACH,💳
+LOG_1226,2026-01-03,disney+ subscription fee ref #4538,352.36,Local POS & Retail,🏪
+LOG_1268,2026-01-03,apple tv+ sub ref #3291,177.03,Subscriptions,📺
+LOG_1323,2026-01-03,mcdonalds doordash ref #7859,35.34,Dining,🍔
+LOG_1417,2026-01-03,Netflix monthly charge ref #3388,216.44,Subscriptions,📺
+LOG_1161,2026-01-03,Netflix monthly charge ref #2842,420.13,Subscriptions,📺
+LOG_1483,2026-01-03,trader joes grocery,150.74,Dining,🍔
+LOG_1368,2026-01-03,chase credit card auto-pay,186.1,Banking,🏦
+LOG_1389,2026-01-03,amzn prime video,429.8,Subscriptions,📺
+LOG_1351,2026-01-03,apple tv+ sub ref #5411,438.44,Subscriptions,📺
+LOG_1457,2026-01-03,apple tv+ sub,318.48,Subscriptions,📺
+LOG_1197,2026-01-03,paypal *ebay purchase ref #6839,254.83,E-Commerce & ACH,💳
+LOG_1335,2026-01-03,mcdonalds doordash ref #4371,125.66,Dining,🍔
+LOG_1162,2026-01-04,comcast internet bill ref #4471,125.86,Utilities,⚡️
+LOG_1383,2026-01-04,atm withdrawal ref #2525,116.81,Banking,🏦
+LOG_1441,2026-01-04,hulu no ads,458.91,Subscriptions,📺
+LOG_1244,2026-01-04,sq *local coffee shop,315.39,Missed Subscriptions,📺
+LOG_1030,2026-01-04,conedison power,256.49,Utilities,⚡️
+LOG_1152,2026-01-04,Spotify premium plan ref #6188,93.68,Subscriptions,📺
+LOG_1196,2026-01-04,amzn prime video,417.67,Subscriptions,📺
+LOG_1469,2026-01-04,mcdonalds doordash,105.73,Dining,🍔
+LOG_1045,2026-01-04,water service san jose ref #1584,186.8,Utilities,⚡️
+LOG_1361,2026-01-04,hulu no ads ref #4165,353.06,Subscriptions,📺
+LOG_1120,2026-01-04,disney+ subscription fee,159.69,Local POS & Retail,🏪
+LOG_1271,2026-01-04,paypal *ebay purchase,104.99,E-Commerce & ACH,💳
+LOG_1282,2026-01-04,POS DEBIT 12/24/2025 terminal 482 ref #5162,252.6,E-Commerce & ACH,💳
+LOG_1085,2026-01-04,uber eats delivery ref #7037,15.09,Dining,🍔
+LOG_1352,2026-01-04,wire transfer fee,480.76,Banking,🏦
+LOG_1082,2026-01-04,uber eats delivery ref #3705,18.11,Dining,🍔
+LOG_1066,2026-01-05,Spotify premium plan,95.75,Subscriptions,📺
+LOG_1363,2026-01-05,whole foods market,248.13,Dining,🍔
+LOG_1381,2026-01-05,POS DEBIT 12/24/2025 terminal 482,467.62,E-Commerce & ACH,💳
+LOG_1208,2026-01-05,trader joes grocery ref #7511,195.03,Dining,🍔
+LOG_1083,2026-01-05,comcast internet bill,22.56,Utilities,⚡️
+LOG_1315,2026-01-05,disney+ subscription fee ref #7667,250.02,Local POS & Retail,🏪
+LOG_1306,2026-01-05,water service san jose,450.26,Utilities,⚡️
+LOG_1291,2026-01-05,mcdonalds doordash,227.45,Dining,🍔
+LOG_1102,2026-01-05,zelle payment to john,342.12,Banking,🏦
+LOG_1406,2026-01-05,chase credit card auto-pay ref #5165,411.92,Banking,🏦
+LOG_1423,2026-01-05,trader joes grocery,396.67,Dining,🍔
+LOG_1484,2026-01-06,conedison power,327.14,Utilities,⚡️
+LOG_1064,2026-01-06,water service san jose,428.25,Utilities,⚡️
+LOG_1127,2026-01-06,zelle payment to john,53.62,Banking,🏦
+LOG_1219,2026-01-06,disney+ subscription fee ref #9247,228.89,Local POS & Retail,🏪
+LOG_1413,2026-01-06,trader joes grocery ref #3857,495.17,Dining,🍔
+LOG_1190,2026-01-07,amzn prime video ref #2517,439.52,Subscriptions,📺
+LOG_1278,2026-01-07,apple tv+ sub ref #2442,248.59,Subscriptions,📺
+LOG_1121,2026-01-07,transfer to saving,339.19,Banking,🏦
+LOG_1333,2026-01-07,uber eats delivery ref #2743,356.48,Dining,🍔
+LOG_1110,2026-01-07,transfer to saving,346.88,Banking,🏦
+LOG_1409,2026-01-07,trader joes grocery,337.87,Dining,🍔
+LOG_1464,2026-01-07,wire transfer fee ref #2970,477.32,Banking,🏦
+LOG_1353,2026-01-07,transfer to saving,250.48,Banking,🏦
+LOG_1199,2026-01-07,sq *local coffee shop,11.67,Missed Subscriptions,📺
+LOG_1060,2026-01-08,at&t wireless phone ref #4358,216.05,Utilities,⚡️
+LOG_1370,2026-01-08,POS DEBIT 12/24/2025 terminal 482 ref #2960,260.03,E-Commerce & ACH,💳
+LOG_1492,2026-01-08,amzn prime video ref #7885,231.29,Subscriptions,📺
+LOG_1338,2026-01-08,uber eats delivery,199.5,Dining,🍔
+LOG_1031,2026-01-08,chase credit card auto-pay,210.44,Banking,🏦
+LOG_1322,2026-01-08,hulu no ads ref #8674,279.57,Subscriptions,📺
+LOG_1425,2026-01-08,amzn prime video ref #9426,481.04,Subscriptions,📺
+LOG_1088,2026-01-08,mcdonalds doordash ref #8262,439.95,Dining,🍔
+LOG_1378,2026-01-08,disney+ subscription fee,164.19,Local POS & Retail,🏪
+LOG_1356,2026-01-08,POS DEBIT 12/24/2025 terminal 482 ref #1101,335.84,E-Commerce & ACH,💳
+LOG_1189,2026-01-08,whole foods market,142.63,Dining,🍔
+LOG_1276,2026-01-08,sq *local coffee shop,9.24,Missed Subscriptions,📺
+LOG_1262,2026-01-08,trader joes grocery ref #3871,225.87,Dining,🍔
+LOG_1131,2026-01-08,chase credit card auto-pay ref #6999,406.67,Banking,🏦
+LOG_1260,2026-01-08,atm withdrawal,409.17,Banking,🏦
+LOG_1259,2026-01-08,uber eats delivery ref #8326,171.88,Dining,🍔
+LOG_1136,2026-01-08,at&t wireless phone ref #7208,114.66,Utilities,⚡️
+LOG_1166,2026-01-08,transfer to saving,488.25,Banking,🏦
+LOG_1248,2026-01-08,Netflix monthly charge ref #4708,5.12,Subscriptions,📺
+LOG_1221,2026-01-08,sq *local coffee shop ref #9824,399.98,Missed Subscriptions,📺
+LOG_1269,2026-01-09,uber eats delivery ref #7260,118.71,Dining,🍔
+LOG_1398,2026-01-09,wire transfer fee ref #5719,458.21,Banking,🏦
+LOG_1448,2026-01-09,sq *local coffee shop,388.32,Missed Subscriptions,📺
+LOG_1494,2026-01-09,ach web payment random stuff,496.2,E-Commerce & ACH,💳
+LOG_1376,2026-01-09,POS DEBIT 12/24/2025 terminal 482 ref #8668,284.26,E-Commerce & ACH,💳
+LOG_1442,2026-01-09,disney+ subscription fee,245.69,Local POS & Retail,🏪
+LOG_1057,2026-01-09,amzn prime video ref #6897,93.5,Subscriptions,📺
+LOG_1402,2026-01-09,comcast internet bill ref #1759,216.45,Utilities,⚡️
+LOG_1476,2026-01-09,sq *local coffee shop ref #7442,263.91,Missed Subscriptions,📺
+LOG_1246,2026-01-09,mcdonalds doordash,36.38,Dining,🍔
+LOG_1148,2026-01-09,comcast internet bill,242.81,Utilities,⚡️
+LOG_1142,2026-01-09,chase credit card auto-pay,438.16,Banking,🏦
+LOG_1225,2026-01-09,hulu no ads ref #8340,29.78,Subscriptions,📺
+LOG_1000,2026-01-09,POS DEBIT 12/24/2025 terminal 482,410.9,E-Commerce & ACH,💳
